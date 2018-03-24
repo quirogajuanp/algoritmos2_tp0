@@ -12,4 +12,5 @@ int main(void){
 	cout<<"parte real de c"<<'='<<c.get_real()<<endl;
 	cout<<"parte imaginaria de c"<<'='<<c.get_imag()<<endl;
 	return 0;
+	sdfsdf
 }
